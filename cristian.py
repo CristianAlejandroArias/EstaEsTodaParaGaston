@@ -1,3 +1,3 @@
 print( "HOla mundo")
-Cristian
-hello
+print ("Cristian")
+print ("hello")
